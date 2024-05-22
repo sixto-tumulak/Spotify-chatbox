@@ -1,5 +1,5 @@
 # Triumvirate
 Members :
-Lievan Alaman  = Project Manager
-Craig Cabugason = Front end
-Christian Adrianne Ochea = Back end
+Ramelo  = Project Manager
+Chery Mae Signar = Front end
+Sixto Tumulak = Back end
